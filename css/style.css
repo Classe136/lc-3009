@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.roboto-bold {
+    font-family: "Roboto", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1 {}
+
+header {
+    width: 100%;
+    background-color: #EDEDED;
+    background-image: url('../img/sfondi/pattern.jpg');
+    background-repeat: no-repeat;
+    background-size: 30%;
+    text-align: center;
+
+}
+
+header img {
+    width: 200px;
+}
+
+
+/* main */
+main {
+    padding: 20px;
+
+}
+
+main section h2 {
+    color: #CF8C07;
+}
+
+.border-bottom-color {
+    border-bottom: 1px solid #CF8C07;
+}
